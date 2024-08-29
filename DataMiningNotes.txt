@@ -1,0 +1,18 @@
+NLP
+
+Datasets
+
+
+
+[1   0   3]   [0   0   0]   [1   0   3]
+[0   1   0] + [2  -1   1] = [2   0   1]
+[0   0   1]   [0   0   1]   [0   0   2]
+                                       
+[1   0   0]   [1   0   0]   [1   0   0]  \'|'/
+[0   1   0] x [2   1   2] = [2   1   2]   \|/  
+[0   0   1]   [0   0   1]   [0   0   1]
+
+
+
+https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:compound-probability-of-ind-events-using-mult-rule/v/introduction-to-dependent-probability
+https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/bayes-theorem-visualized

@@ -1,0 +1,1 @@
+This folder is for half baked ideas that i have while working on content from this class. I STRONGLY recommend that you do not try to run anything in this folder
